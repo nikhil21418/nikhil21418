@@ -14,7 +14,7 @@ All about me
 Hi, I’m Nikhil Kumar – a passionate Data Analyst who loves turning raw data into meaningful insights.
 I enjoy working with data to uncover trends, solve problems, and support decision-making through analytics.
 
-<img align="right" alt="GIF" src="https://github.com/nikhil21418/About-me/blob/be6afd9acf204635314f6562eaef168996a88935/DATA.png" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/nikhil21418/nikhil21418/blob/735f99668aa10c2161d3794c36662548523c6609/White%20and%20Brown%20India%20National%20Parks%20Travel%20Youtube%20Thumbnail.png" width="400" height="225" />
   
 
 **Talking about Personal Stuffs:**
