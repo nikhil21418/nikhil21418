@@ -6,7 +6,7 @@ MY PORTFOLIO
 
 - 🌱 I’m currently learning *Data Analytics*
 
-- 👨‍💻 Watch my LinkedIn profile: [https://www.linkedin.com/in/sandhya-verma-aiml](https://www.linkedin.com/in/imnikhilkumar/)
+- 👨‍💻 Watch my LinkedIn profile: [ Click me to see linkedin profile ](https://www.linkedin.com/in/imnikhilkumar/)
 
 - 📫 How to reach me: *nk175263@gmail.com*
 
