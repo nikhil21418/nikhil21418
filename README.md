@@ -18,43 +18,38 @@ MY PORTFOLIO
 <h3 align="left"> 🧑‍💻 TECH STACK:</h3>
 <p align="left">
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
- <img src="assets/images/excel_logo1.jpg" alt="excel" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/b4d8beddfcad9a06bf146cf925e8e4f26739e320/download%20(1).png" width="70" height="70"/>
  </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- <img src="assets/images/mysql2 - Copy.png" alt="mysql" width="70" height="70"/>
+ <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/224a12d45857291f9ac06080ae3ee472a0ea6f08/download%20(2).png" alt="mysql" width="70" height="70"/>
  </a>
  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
- <img src="assets/images/Power-BI-Logo1.jpg" alt="powerbi" width="125" height="125"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/223bbf243345908d57efb71139e887ab232b1c5c/download%20(2).jpeg" alt="powerbi" width="70" height="70"/>
  </a>
  <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
- <img src="assets/images/googlesheet - Copy.png" alt="google sheets" width="95" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/83dc0fe846290a383f66c889bc37f52141270d8e/download%20(3).png" alt="google sheets" width="70" height="70"/>
  </a>
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
- <img src="assets/images/aws2.png" alt="aws" width="115" height="115"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/a727298c97ded813c680ec3ea0a96957de839836/download%20(4).png" alt="aws" width="70" height="70"/>
  </a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
- <img src="assets/images/python.webp" alt="python" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/1489d7bdb3b8beb03bf0f4f1dd5d837cb0961ae6/download%20(4).jpeg" alt="python" width="70" height="70"/>
  </a>
  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
- <img src="assets/images/numpy - Copy.webp" alt="numpy" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/c79082c0c74647cd62ce993c66cdc976d0e707e4/download%20(5).png" alt="numpy" width="70" height="70"/>
  </a>
  <a href="https://pandas.org/" target="_blank" rel="noreferrer">
- <img src="assets/images/pandas.png" alt="pandas" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/6eee799d80f2bc51f01528fc1e6cd934be18e569/download%20(5).jpeg" alt="pandas" width="70" height="70"/>
  </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/3b9d8072c9ef7e69501524738aed964be6d3b0a4/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="git" width="70" height="70"/>
  </a>
  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
- <img src="assets/images/matplotlib2.png" alt="matplotlib" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/9171b0a53b42a5f215992a86f2698f7806456f5d/download%20(6).png" alt="matplotlib" width="70" height="70"/>
  </a>
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
- <img src="assets/images/r language2.png" alt="R language" width="90" height="90"/>
- </a>
- <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
- <img src="assets/images/scikitlearn2.png" alt="sci-kit learn" width="70" height="70"/>
- </a>
- <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank" rel="noreferrer">
- <img src="assets/images/ml2.jpg" alt="machine learning" width="70" height="70"/>
+ <img src="https://github.com/nikhil21418/nikhil21418/blob/d62f329cf90d1922c23dc8305afd5401efaab9fb/download%20(7).jpeg" alt="R language" width="70" height="70"/>
+
  </a>
 </p>
 <p align="center">
